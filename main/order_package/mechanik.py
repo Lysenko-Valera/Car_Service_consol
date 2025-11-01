@@ -14,7 +14,7 @@ class Mechanic:
         self.experience_years = experience_years
         self.mechanic_id = self.generation_id()
 
-    def perform_service(self, car_service):
+    def perform_service(self, car, service):
         pass
 
     list_id = [0]
@@ -33,7 +33,7 @@ class Mechanic:
     def set_get_complectid_serv(self, new_completed_services):
         self.__list_completed_services.append(new_completed_services)
 
-m = Mechanic('Jon', 'Мех', 4.0)
-m2 = Mechanic('Jon', 'Мех', 24.5)
-print(m2.mechanic_id)
-print(m.mechanic_id)
+# m = Mechanic('Jon', 'Мех', 4.0)
+# m2 = Mechanic('Jon', 'Мех', 24.5)
+# print(m2.mechanic_id)
+# print(m.mechanic_id)

@@ -22,7 +22,7 @@ class Service:
         нужному типу данных.'''
         if not isinstance(self.name, str):
             raise InvalidServiceError('Ошибка. Имя должно быть строкой')
-        if not isinstance(self.price, list) or self.price < 0:
+        if not isinstance(self.price, list):
             raise InvalidServiceError('Ошибка. Цена должна быть списком')
         if not isinstance(self.duration_hours, float) or self.duration_hours < 0:
             raise InvalidServiceError('Ошибка. Кол-во времени должно быть вещественным числом')
@@ -33,4 +33,4 @@ class Service:
         return self.price + other
 
 
-# s = Service('Harry', 1003.7, 9.0, 'Замена масла')
+# s = Service('Harry', [1003.7], 9.0, ['Замена масла'])
