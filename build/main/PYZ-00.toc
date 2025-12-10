@@ -1,0 +1,4068 @@
+('C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+ 'System\\build\\main\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__', 'C:\\python_install\\Lib\\__future__.py', 'PYMODULE'),
+  ('_aix_support', 'C:\\python_install\\Lib\\_aix_support.py', 'PYMODULE'),
+  ('_colorize', 'C:\\python_install\\Lib\\_colorize.py', 'PYMODULE'),
+  ('_compat_pickle', 'C:\\python_install\\Lib\\_compat_pickle.py', 'PYMODULE'),
+  ('_compression', 'C:\\python_install\\Lib\\_compression.py', 'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_ios_support', 'C:\\python_install\\Lib\\_ios_support.py', 'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\python_install\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc', 'C:\\python_install\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('_pydatetime', 'C:\\python_install\\Lib\\_pydatetime.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\python_install\\Lib\\_pydecimal.py', 'PYMODULE'),
+  ('_pyrepl', 'C:\\python_install\\Lib\\_pyrepl\\__init__.py', 'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\python_install\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\python_install\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\python_install\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\python_install\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\python_install\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('_pyrepl.curses', 'C:\\python_install\\Lib\\_pyrepl\\curses.py', 'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\python_install\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\python_install\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.input', 'C:\\python_install\\Lib\\_pyrepl\\input.py', 'PYMODULE'),
+  ('_pyrepl.keymap', 'C:\\python_install\\Lib\\_pyrepl\\keymap.py', 'PYMODULE'),
+  ('_pyrepl.main', 'C:\\python_install\\Lib\\_pyrepl\\main.py', 'PYMODULE'),
+  ('_pyrepl.pager', 'C:\\python_install\\Lib\\_pyrepl\\pager.py', 'PYMODULE'),
+  ('_pyrepl.reader', 'C:\\python_install\\Lib\\_pyrepl\\reader.py', 'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\python_install\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\python_install\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.trace', 'C:\\python_install\\Lib\\_pyrepl\\trace.py', 'PYMODULE'),
+  ('_pyrepl.types', 'C:\\python_install\\Lib\\_pyrepl\\types.py', 'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\python_install\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\python_install\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.utils', 'C:\\python_install\\Lib\\_pyrepl\\utils.py', 'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\python_install\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_sitebuiltins', 'C:\\python_install\\Lib\\_sitebuiltins.py', 'PYMODULE'),
+  ('_strptime', 'C:\\python_install\\Lib\\_strptime.py', 'PYMODULE'),
+  ('_threading_local',
+   'C:\\python_install\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse', 'C:\\python_install\\Lib\\argparse.py', 'PYMODULE'),
+  ('ast', 'C:\\python_install\\Lib\\ast.py', 'PYMODULE'),
+  ('asyncio', 'C:\\python_install\\Lib\\asyncio\\__init__.py', 'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\python_install\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\python_install\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\python_install\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\python_install\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\python_install\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\python_install\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events', 'C:\\python_install\\Lib\\asyncio\\events.py', 'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\python_install\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\python_install\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\python_install\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks', 'C:\\python_install\\Lib\\asyncio\\locks.py', 'PYMODULE'),
+  ('asyncio.log', 'C:\\python_install\\Lib\\asyncio\\log.py', 'PYMODULE'),
+  ('asyncio.mixins', 'C:\\python_install\\Lib\\asyncio\\mixins.py', 'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\python_install\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\python_install\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues', 'C:\\python_install\\Lib\\asyncio\\queues.py', 'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\python_install\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\python_install\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\python_install\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\python_install\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\python_install\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\python_install\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\python_install\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks', 'C:\\python_install\\Lib\\asyncio\\tasks.py', 'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\python_install\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\python_install\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\python_install\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock', 'C:\\python_install\\Lib\\asyncio\\trsock.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\python_install\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\python_install\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\python_install\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64', 'C:\\python_install\\Lib\\base64.py', 'PYMODULE'),
+  ('bdb', 'C:\\python_install\\Lib\\bdb.py', 'PYMODULE'),
+  ('bisect', 'C:\\python_install\\Lib\\bisect.py', 'PYMODULE'),
+  ('bz2', 'C:\\python_install\\Lib\\bz2.py', 'PYMODULE'),
+  ('calendar', 'C:\\python_install\\Lib\\calendar.py', 'PYMODULE'),
+  ('cmd', 'C:\\python_install\\Lib\\cmd.py', 'PYMODULE'),
+  ('code', 'C:\\python_install\\Lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\python_install\\Lib\\codeop.py', 'PYMODULE'),
+  ('colorsys', 'C:\\python_install\\Lib\\colorsys.py', 'PYMODULE'),
+  ('concurrent',
+   'C:\\python_install\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\python_install\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\python_install\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\python_install\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\python_install\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser', 'C:\\python_install\\Lib\\configparser.py', 'PYMODULE'),
+  ('contextlib', 'C:\\python_install\\Lib\\contextlib.py', 'PYMODULE'),
+  ('contextvars', 'C:\\python_install\\Lib\\contextvars.py', 'PYMODULE'),
+  ('copy', 'C:\\python_install\\Lib\\copy.py', 'PYMODULE'),
+  ('csv', 'C:\\python_install\\Lib\\csv.py', 'PYMODULE'),
+  ('ctypes', 'C:\\python_install\\Lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._aix', 'C:\\python_install\\Lib\\ctypes\\_aix.py', 'PYMODULE'),
+  ('ctypes._endian', 'C:\\python_install\\Lib\\ctypes\\_endian.py', 'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\python_install\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\python_install\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\python_install\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\python_install\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util', 'C:\\python_install\\Lib\\ctypes\\util.py', 'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\python_install\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('curses', 'C:\\python_install\\Lib\\curses\\__init__.py', 'PYMODULE'),
+  ('curses.has_key', 'C:\\python_install\\Lib\\curses\\has_key.py', 'PYMODULE'),
+  ('dataclasses', 'C:\\python_install\\Lib\\dataclasses.py', 'PYMODULE'),
+  ('datetime', 'C:\\python_install\\Lib\\datetime.py', 'PYMODULE'),
+  ('dateutil',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal', 'C:\\python_install\\Lib\\decimal.py', 'PYMODULE'),
+  ('difflib', 'C:\\python_install\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\python_install\\Lib\\dis.py', 'PYMODULE'),
+  ('doctest', 'C:\\python_install\\Lib\\doctest.py', 'PYMODULE'),
+  ('email', 'C:\\python_install\\Lib\\email\\__init__.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\python_install\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\python_install\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\python_install\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\python_install\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\python_install\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset', 'C:\\python_install\\Lib\\email\\charset.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\python_install\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders', 'C:\\python_install\\Lib\\email\\encoders.py', 'PYMODULE'),
+  ('email.errors', 'C:\\python_install\\Lib\\email\\errors.py', 'PYMODULE'),
+  ('email.feedparser',
+   'C:\\python_install\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\python_install\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header', 'C:\\python_install\\Lib\\email\\header.py', 'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\python_install\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\python_install\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message', 'C:\\python_install\\Lib\\email\\message.py', 'PYMODULE'),
+  ('email.parser', 'C:\\python_install\\Lib\\email\\parser.py', 'PYMODULE'),
+  ('email.policy', 'C:\\python_install\\Lib\\email\\policy.py', 'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\python_install\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils', 'C:\\python_install\\Lib\\email\\utils.py', 'PYMODULE'),
+  ('et_xmlfile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.incremental_tree',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\et_xmlfile\\incremental_tree.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('fileinput', 'C:\\python_install\\Lib\\fileinput.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\python_install\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('fractions', 'C:\\python_install\\Lib\\fractions.py', 'PYMODULE'),
+  ('ftplib', 'C:\\python_install\\Lib\\ftplib.py', 'PYMODULE'),
+  ('getopt', 'C:\\python_install\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\python_install\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\python_install\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\python_install\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\python_install\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\python_install\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hmac', 'C:\\python_install\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\python_install\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'C:\\python_install\\Lib\\html\\entities.py', 'PYMODULE'),
+  ('http', 'C:\\python_install\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('http.client', 'C:\\python_install\\Lib\\http\\client.py', 'PYMODULE'),
+  ('http.cookiejar', 'C:\\python_install\\Lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('http.server', 'C:\\python_install\\Lib\\http\\server.py', 'PYMODULE'),
+  ('importlib', 'C:\\python_install\\Lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('importlib._abc', 'C:\\python_install\\Lib\\importlib\\_abc.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\python_install\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\python_install\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc', 'C:\\python_install\\Lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\python_install\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\python_install\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\python_install\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\python_install\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\python_install\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\python_install\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\python_install\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\python_install\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\python_install\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\python_install\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\python_install\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\python_install\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\python_install\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\python_install\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\python_install\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\python_install\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util', 'C:\\python_install\\Lib\\importlib\\util.py', 'PYMODULE'),
+  ('inspect', 'C:\\python_install\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\python_install\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\python_install\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.decoder', 'C:\\python_install\\Lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.encoder', 'C:\\python_install\\Lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.scanner', 'C:\\python_install\\Lib\\json\\scanner.py', 'PYMODULE'),
+  ('logging', 'C:\\python_install\\Lib\\logging\\__init__.py', 'PYMODULE'),
+  ('lzma', 'C:\\python_install\\Lib\\lzma.py', 'PYMODULE'),
+  ('main',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\main\\__init__.py',
+   'PYMODULE'),
+  ('main.create_car',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\main\\create_car.py',
+   'PYMODULE'),
+  ('main.descriptor_car',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\main\\descriptor_car.py',
+   'PYMODULE'),
+  ('main.help_file_main',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\main\\help_file_main.py',
+   'PYMODULE'),
+  ('main.helpers_photo',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\main\\helpers_photo.py',
+   'PYMODULE'),
+  ('mimetypes', 'C:\\python_install\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\python_install\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\python_install\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\python_install\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\python_install\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\python_install\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\python_install\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\python_install\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\python_install\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\python_install\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\python_install\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\python_install\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\python_install\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\python_install\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\python_install\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\python_install\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\python_install\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\python_install\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\python_install\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\python_install\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\python_install\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\python_install\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\python_install\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\python_install\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc', 'C:\\python_install\\Lib\\netrc.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\python_install\\Lib\\nturl2path.py', 'PYMODULE'),
+  ('numbers', 'C:\\python_install\\Lib\\numbers.py', 'PYMODULE'),
+  ('numpy',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode', 'C:\\python_install\\Lib\\opcode.py', 'PYMODULE'),
+  ('openpyxl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.rich_text',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\cell\\rich_text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.container',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\container.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.custom',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.formula',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\formula.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.print_settings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.extensions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\extensions.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.accessors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._calamine',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_calamine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib', 'C:\\python_install\\Lib\\pathlib\\__init__.py', 'PYMODULE'),
+  ('pathlib._abc', 'C:\\python_install\\Lib\\pathlib\\_abc.py', 'PYMODULE'),
+  ('pathlib._local', 'C:\\python_install\\Lib\\pathlib\\_local.py', 'PYMODULE'),
+  ('pdb', 'C:\\python_install\\Lib\\pdb.py', 'PYMODULE'),
+  ('pickle', 'C:\\python_install\\Lib\\pickle.py', 'PYMODULE'),
+  ('pickletools', 'C:\\python_install\\Lib\\pickletools.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\python_install\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\python_install\\Lib\\platform.py', 'PYMODULE'),
+  ('pprint', 'C:\\python_install\\Lib\\pprint.py', 'PYMODULE'),
+  ('py_compile', 'C:\\python_install\\Lib\\py_compile.py', 'PYMODULE'),
+  ('pydoc', 'C:\\python_install\\Lib\\pydoc.py', 'PYMODULE'),
+  ('pydoc_data',
+   'C:\\python_install\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\python_install\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue', 'C:\\python_install\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\python_install\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\python_install\\Lib\\random.py', 'PYMODULE'),
+  ('rlcompleter', 'C:\\python_install\\Lib\\rlcompleter.py', 'PYMODULE'),
+  ('runpy', 'C:\\python_install\\Lib\\runpy.py', 'PYMODULE'),
+  ('secrets', 'C:\\python_install\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\python_install\\Lib\\selectors.py', 'PYMODULE'),
+  ('setuptools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.typing_extensions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.convert',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.pack',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.tags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.unpack',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.metadata',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\util.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._elffile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._manylinux',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._musllinux',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._parser',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._structures',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._tokenizer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.markers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.requirements',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.specifiers',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.tags',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex', 'C:\\python_install\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\python_install\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\python_install\\Lib\\signal.py', 'PYMODULE'),
+  ('site', 'C:\\python_install\\Lib\\site.py', 'PYMODULE'),
+  ('six',
+   'C:\\coding\\projects\\pythonProjects\\SmartCar Service '
+   'System\\.venv\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket', 'C:\\python_install\\Lib\\socket.py', 'PYMODULE'),
+  ('socketserver', 'C:\\python_install\\Lib\\socketserver.py', 'PYMODULE'),
+  ('sqlite3', 'C:\\python_install\\Lib\\sqlite3\\__init__.py', 'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\python_install\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2', 'C:\\python_install\\Lib\\sqlite3\\dbapi2.py', 'PYMODULE'),
+  ('sqlite3.dump', 'C:\\python_install\\Lib\\sqlite3\\dump.py', 'PYMODULE'),
+  ('ssl', 'C:\\python_install\\Lib\\ssl.py', 'PYMODULE'),
+  ('statistics', 'C:\\python_install\\Lib\\statistics.py', 'PYMODULE'),
+  ('string', 'C:\\python_install\\Lib\\string.py', 'PYMODULE'),
+  ('stringprep', 'C:\\python_install\\Lib\\stringprep.py', 'PYMODULE'),
+  ('subprocess', 'C:\\python_install\\Lib\\subprocess.py', 'PYMODULE'),
+  ('sysconfig', 'C:\\python_install\\Lib\\sysconfig\\__init__.py', 'PYMODULE'),
+  ('tarfile', 'C:\\python_install\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tempfile', 'C:\\python_install\\Lib\\tempfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\python_install\\Lib\\textwrap.py', 'PYMODULE'),
+  ('threading', 'C:\\python_install\\Lib\\threading.py', 'PYMODULE'),
+  ('tkinter', 'C:\\python_install\\Lib\\tkinter\\__init__.py', 'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\python_install\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\python_install\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\python_install\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('token', 'C:\\python_install\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\python_install\\Lib\\tokenize.py', 'PYMODULE'),
+  ('tomllib', 'C:\\python_install\\Lib\\tomllib\\__init__.py', 'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\python_install\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re', 'C:\\python_install\\Lib\\tomllib\\_re.py', 'PYMODULE'),
+  ('tomllib._types', 'C:\\python_install\\Lib\\tomllib\\_types.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\python_install\\Lib\\tracemalloc.py', 'PYMODULE'),
+  ('tty', 'C:\\python_install\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\python_install\\Lib\\typing.py', 'PYMODULE'),
+  ('unittest', 'C:\\python_install\\Lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest._log', 'C:\\python_install\\Lib\\unittest\\_log.py', 'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\python_install\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case', 'C:\\python_install\\Lib\\unittest\\case.py', 'PYMODULE'),
+  ('unittest.loader',
+   'C:\\python_install\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main', 'C:\\python_install\\Lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.mock', 'C:\\python_install\\Lib\\unittest\\mock.py', 'PYMODULE'),
+  ('unittest.result',
+   'C:\\python_install\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\python_install\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\python_install\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite', 'C:\\python_install\\Lib\\unittest\\suite.py', 'PYMODULE'),
+  ('unittest.util', 'C:\\python_install\\Lib\\unittest\\util.py', 'PYMODULE'),
+  ('urllib', 'C:\\python_install\\Lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('urllib.error', 'C:\\python_install\\Lib\\urllib\\error.py', 'PYMODULE'),
+  ('urllib.parse', 'C:\\python_install\\Lib\\urllib\\parse.py', 'PYMODULE'),
+  ('urllib.request', 'C:\\python_install\\Lib\\urllib\\request.py', 'PYMODULE'),
+  ('urllib.response',
+   'C:\\python_install\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uuid', 'C:\\python_install\\Lib\\uuid.py', 'PYMODULE'),
+  ('webbrowser', 'C:\\python_install\\Lib\\webbrowser.py', 'PYMODULE'),
+  ('xml', 'C:\\python_install\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.dom', 'C:\\python_install\\Lib\\xml\\dom\\__init__.py', 'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\python_install\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\python_install\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\python_install\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\python_install\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\python_install\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\python_install\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\python_install\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree', 'C:\\python_install\\Lib\\xml\\etree\\__init__.py', 'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\python_install\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\python_install\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\python_install\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\python_install\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\python_install\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\python_install\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax', 'C:\\python_install\\Lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\python_install\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\python_install\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\python_install\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\python_install\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\python_install\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc', 'C:\\python_install\\Lib\\xmlrpc\\__init__.py', 'PYMODULE'),
+  ('xmlrpc.client', 'C:\\python_install\\Lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('zipfile', 'C:\\python_install\\Lib\\zipfile\\__init__.py', 'PYMODULE'),
+  ('zipfile._path',
+   'C:\\python_install\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\python_install\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport', 'C:\\python_install\\Lib\\zipimport.py', 'PYMODULE')])
