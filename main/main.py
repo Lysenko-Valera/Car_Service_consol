@@ -7,8 +7,8 @@ from main import help_file_main
 from main.helpers_photo import resource_path
 
 password_list_administrators = {'goroh008': 639217, 'magnit01': 963521,
-                                'kniga771': 445612}
-dict_capcha = {'68ㄥ9ᄅ': 98762, '6ㄥƐᄅ8': 97328, '9ㄥㄥƐᄅ': 97732, 'ᄅᄅ98Ɩ': 22981, 'ㄣ8ㄣᄅㄥ': 48427}
+                                'kniga771': 445612} #Логины и пароли администраторов
+dict_capcha = {'68ㄥ9ᄅ': 98762, '6ㄥƐᄅ8': 97328, '9ㄥㄥƐᄅ': 97732, 'ᄅᄅ98Ɩ': 22981, 'ㄣ8ㄣᄅㄥ': 48427} #Капча
 list_capcha = ['68ㄥ9ᄅ', '6ㄥƐᄅ8', '9ㄥㄥƐᄅ', 'ᄅᄅ98Ɩ', 'ㄣ8ㄣᄅㄥ']
 correct_num_capcha = [98762, 97328, 67732, 22681, 48427]
 count = 0
@@ -16,6 +16,7 @@ check = False
 
 
 def checking_before_captcha(login, password):
+    'Смотрит что бы пароль был введен верно и выводит количесво оставшихся попыток, если попыток 0 вызывает капчу'
     global count, check
     list_password = list(password_list_administrators.values())
 
@@ -57,6 +58,8 @@ def capcha(login, password):
 
 
     def check_capcha():
+        'Функция для проверки капчи, выводит ошибки если что то неверно'
+
         try:
             capcha_num = int(entry_capcha.get())
         except ValueError:
@@ -80,6 +83,8 @@ def capcha(login, password):
 
 
 def send_data():
+    'Функция считывает данные которые пользователь ввел в поле entry, вызывает ошибку в случае не верного формата'
+
     login = login_input.get()
     try:
         password = int(password_input.get())
@@ -124,4 +129,5 @@ password_input.pack()
 button_login_pwrd = Button(window, command=send_data, text='Войти', font=('Arial', 30), bg='lime')
 button_login_pwrd.pack()
 
-window.mainloop()
+if '__name__' == '__main__':
+    window.mainloop()
