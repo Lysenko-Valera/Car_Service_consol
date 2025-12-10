@@ -1,4 +1,4 @@
-from descriptor_car import CarDescriptor
+from main.descriptor_car import CarDescriptor
 
 
 class ChargingError(Exception):
